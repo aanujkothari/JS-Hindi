@@ -10,6 +10,6 @@
 
 //Object
 
-console.log(typeof null); //Pbject
+console.log(typeof null); //object
 console.log(typeof undefined); //undefined
 

@@ -7,3 +7,5 @@ console.log(productPrice);
 console.log(productType);
 
 console.table([productName,productPrice,productType]);
+
+// === strict equal, compares values as well as data types.
