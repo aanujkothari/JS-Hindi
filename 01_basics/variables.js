@@ -6,4 +6,4 @@ console.log(productName);
 console.log(productPrice);
 console.log(productType);
 
-console.table(productName,productPrice,productType);
+console.table([productName,productPrice,productType]);
